@@ -1,0 +1,6 @@
+model_checkpoint_path: "recognotion-1350000"
+all_model_checkpoint_paths: "recognotion-1170000"
+all_model_checkpoint_paths: "recognotion-1215000"
+all_model_checkpoint_paths: "recognotion-1260000"
+all_model_checkpoint_paths: "recognotion-1305000"
+all_model_checkpoint_paths: "recognotion-1350000"
